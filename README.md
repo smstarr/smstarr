@@ -1,7 +1,7 @@
-Hey! 👋 I’m Steve Starr
-🌱 I'm currently teaching my self Go
-👀 I’m interested in developing useful apps to make things more efficient.  Also make a mean pizza when not developing.
-📫 First initial, then a 'm', then last name.  It's a gmail address.
+Hey! 👋 I’m Steve Starr<br>
+🌱 I'm currently teaching my self Go<br>
+👀 I’m interested in developing useful apps to make things more efficient.  Also make a mean pizza when not developing.<br>
+📫 First initial, then a 'm', then last name.  It's a gmail address.<br>
 
 <hr>
 
